@@ -1,0 +1,1 @@
+To jest plik tymczasowy, który ma być na github-ie.
